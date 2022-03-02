@@ -46,7 +46,7 @@ public class PartTimeHourly extends Employee {
 	}
 
 	/**
-	 * Assign the base hourly pay to an employee
+	 * Setter for the base hourly pay to an employee
 	 * @param baseHourlyPay base hourly pay
 	 */
 	public void setHourlyPay(double baseHourlyPay) {

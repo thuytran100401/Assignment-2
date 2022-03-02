@@ -45,7 +45,7 @@ public class FullTimeHourly extends FullTimeEmployee{
 	}
 
 	/**
-	 * Assign the amount of overtime pay to full time Hourly
+	 * Setter for the amount of overtime pay to full time Hourly
 	 * @param overtime the overtime pay for working overtime
 	 */
 	public void setOvertimePay(double overtime) {

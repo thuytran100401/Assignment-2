@@ -59,7 +59,7 @@ abstract class Employee extends Person{
 	}
 
 	/**
-	 * Assign an ID to an employee
+	 * Setter for an ID to an employee
 	 * @param id Employee ID
 	 */
 	public void setID(int id) {
@@ -67,7 +67,7 @@ abstract class Employee extends Person{
 	}
 
 	/**
-	 * Assign the education level to an employee
+	 * Setter for the education level to an employee
 	 * @param educationLevel education level of employee
 	 */
 	public void setEducation(String educationLevel) {
@@ -75,7 +75,7 @@ abstract class Employee extends Person{
 	}
 
 	/**
-	 * Assign do an employee use direct deposit or not
+	 * Setter for do an employee use direct deposit or not
 	 * @param directDeposit direct deposit 
 	 */
 	public void setDirectDeposit(boolean directDeposit) {

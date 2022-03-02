@@ -43,7 +43,7 @@ public class Contractor extends Employee {
 	}
 
 	/**
-	 * Assign the base pay to a contractor
+	 * Setter for the base pay to a contractor
 	 * @param basePay base pay for contractor
 	 */
 	public void setBasePay(double basePay) {

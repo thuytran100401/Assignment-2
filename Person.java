@@ -79,7 +79,7 @@ abstract class Person {
 	}
 
 	/**
-	 * set the new person first name
+	 * Setter for the new person first name
 	 * @param firstName first name of a person
 	 */
 	public void setFirstName(String firstName) {
@@ -87,7 +87,7 @@ abstract class Person {
 	}
 
 	/**
-	 * set the new person last name
+	 * Setter for the new person last name
 	 * @param lastName last mane of a person
 	 */
 	public void setLastName(String lastName) {
@@ -95,7 +95,7 @@ abstract class Person {
 	}
 
 	/**
-	 * set a new age for a person
+	 * Setter for a new age for a person
 	 * @param age age of a person
 	 */
 	public void setAge(int age) {

@@ -47,7 +47,7 @@ public class Executive extends Employee{
 	}
 
 	/**
-	 * Assign the yearly bonus to an executive
+	 * Setter for the yearly bonus to an executive
 	 * @param bonus yearly bonus
 	 */
 	public void setBonus(double bonus) {
@@ -63,7 +63,7 @@ public class Executive extends Employee{
 	}
 
 	/**
-	 * Assign the yearly pay to an executive
+	 * Setter for the yearly pay to an executive
 	 * @param pay yearly pay
 	 */
 	public void setCompensation(double pay) {

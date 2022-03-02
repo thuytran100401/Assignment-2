@@ -43,7 +43,7 @@ abstract class FullTimeEmployee extends Employee {
 	}
 
 	/**
-	 * Assign the base pay to a full time employee
+	 * Setter for the base pay to a full time employee
 	 * @param basePay base pay for full time employee
 	 */
 	public void setBasePay(double basePay) {

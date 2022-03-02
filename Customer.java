@@ -50,7 +50,7 @@ public class Customer extends Person {
 	}
 
 	/**
-	 * Assign the pay preference to a customer
+	 * Setter for the pay preference to a customer
 	 * @param payPreference customer pay preference
 	 */
 	public void setPayPreference(String payPreference) {
@@ -58,7 +58,7 @@ public class Customer extends Person {
 	}
 
 	/**
-	 * Assign the customer ID to a customer
+	 * Setter for the customer ID to a customer
 	 * @param id customer ID
 	 */
 	public void setID(int id) {

@@ -74,7 +74,7 @@ public class Address {
 	}
 
 	/**
-	 * Assigns a number to the address
+	 * Setter for a number to the address
 	 * @param streetNum the number of address
 	 */
 	public void setStreetNum(int streetNum) {
@@ -82,7 +82,7 @@ public class Address {
 	}
 
 	/**
-	 * Assigns a street to the address 
+	 * Setter for a street to the address 
 	 * @param streetName the street of address
 	 */
 	public void setStreetName(String streetName) {
@@ -90,7 +90,7 @@ public class Address {
 	}
 
 	/**
-	 * Assigns a city name to the address
+	 * Setter for a city name to the address
 	 * @param city the name of city
 	 */
 	public void setCity(String city) {
@@ -98,7 +98,7 @@ public class Address {
 	}
 
 	/**
-	 * Assigns a zip code to the address
+	 * Setter for a zip code to the address
 	 * @param zip the zip code of the address
 	 */
 	public void setZip(String zip) {
@@ -106,7 +106,7 @@ public class Address {
 	}
 
 	/**
-	 * Assigns a state to the address
+	 * Setter for the state to the address
 	 * @param state the name of state
 	 */
 	public void setState(String state) {
